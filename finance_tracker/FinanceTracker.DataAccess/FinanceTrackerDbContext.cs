@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using FinanceTracker.DataAccess.Entities;
 
 namespace FinanceTracker.DataAccess;
 
